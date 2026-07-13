@@ -54,14 +54,16 @@ I approach projects as products rather than isolated coding exercises: define th
 
 | Project | Value | Status | Links |
 |---|---|---|---|
-| **Al-Zandani Car Dealership** | Arabic vehicle dealership experience with inventory presentation, filtering, vehicle details, WhatsApp contact, and administrative management. | Portfolio project · code not public | [View portfolio](https://portofile001.netlify.app/) |
-| **Vitamin C Editorial Blog** | Responsive editorial blog focused on readable long-form content, structured navigation, sources, and polished interaction design. | Portfolio project · code not public | [View portfolio](https://portofile001.netlify.app/) |
-| **Mowasalatna** | Regional route and trip-status platform built to help passengers view current transport information. It is a status platform, not a booking system. | Active product · code not public | [Open platform](https://mowasalatna.com/mowasalat) |
-| **[Q-Search](https://github.com/abdulrahman-517/q-search)** | Arabic-first YouTube search interface that re-ranks results using a documented quality-scoring heuristic. | Public repository · live demo | [Repository](https://github.com/abdulrahman-517/q-search) · [Demo](https://q-search-77si.onrender.com) |
-| **Aqarnapro** | Multi-office real-estate SaaS concept covering property management, administration, and office deployment workflows. | In development · code not public | [View portfolio](https://portofile001.netlify.app/) |
-| **Haraj Al-Dhad** | Local Arabic marketplace concept for buying and selling within Al-Dhalea and nearby areas. | In development · code not public | [View portfolio](https://portofile001.netlify.app/) |
+| **معرض سيارات** | Arabic vehicle dealership experience with inventory presentation, filtering, vehicle details, WhatsApp contact, and administrative management. | Portfolio project · code not public | [View portfolio](https://portofile001.netlify.app/) |
+| **مدونة فيتامين C** | Responsive editorial blog focused on readable long-form content, structured navigation, sources, and polished interaction design. | Portfolio project · code not public | [View portfolio](https://portofile001.netlify.app/) |
+| **مواصلاتنا** | Regional route and trip-status platform built to help passengers view current transport information. It is a status platform, not a booking system. | Active product · code not public | [Open platform](https://mowasalatna.com/mowasalat) |
+| **حراج الضاد** | Local Arabic marketplace concept for buying and selling within Al-Dhalea and nearby areas. | In development · code not public | [View portfolio](https://portofile001.netlify.app/) |
 
 > Private-source projects are presented as product work only. Features described as in development are not presented as completed.
+
+## Open Source
+
+- **[Q-Search](https://github.com/abdulrahman-517/q-search):** Arabic-first YouTube search interface that re-ranks results using a documented quality-scoring heuristic. [Repository](https://github.com/abdulrahman-517/q-search) · [Demo](https://q-search-77si.onrender.com)
 
 ## Current Focus
 
